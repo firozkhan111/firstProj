@@ -9,6 +9,7 @@ public class MapDemo
     	 HashMap m = new HashMap();
     	 m.put("100","firoz");
     	 m.put("100", "khan");
+          m.put("101", "khan1");
     	 System.out.println(m);
     }
 }
